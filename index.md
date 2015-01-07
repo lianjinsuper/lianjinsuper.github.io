@@ -10,9 +10,7 @@ layout: home
             <li style="text-align:right"><a href="/project"><span>Works</span></a></li>
         </ul>
 
-        <div class="cate-bar"><span id="cateBar"></span></div>
-
-        <ul class="artical-list">
+        
         {% for post in site.categories.blog %}
             <li>
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
