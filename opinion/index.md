@@ -6,8 +6,8 @@ layout: home
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Science</span></a></li>
-            <li class="on" style="text-align:center"><a href="/opinion"><span>Life and Culture</span></a></li>
-            <li style="text-align:right"><a href="/project"><span>王北玉啊</span></a></li>
+            <li class="on" style="text-align:center"><a href="/life"><span>Life and Culture</span></a></li>
+            <li style="text-align:right"><a href="/life"><span>life and Culture</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
