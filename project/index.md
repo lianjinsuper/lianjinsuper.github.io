@@ -5,7 +5,7 @@ layout: home
 <div class="index-content project">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>王北玉啊</span></a></li>
+            <li><a href="/"><span>science</span></a></li>
             <li style="text-align:center"><a href=“/life”><span>life and Culture</span></a></li>
             <li class="on" style="text-align:right"><a href=“/Works”><span>Works</span></a></li>
         </ul>
