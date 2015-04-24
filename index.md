@@ -8,7 +8,7 @@ layout: home
             <li class="on"><a href="/"><span>Home</span></a></li>
             <li style="text-align:center"><a href="/Science"><span>Science</span></a></li>
             <li style="text-align:right"><a href="/aboutme"><span>About me</span></a></li>
-            <li style="text-align:right"><a href="/blog"><span>Blog</span></a></li>
+            <li style="text-align:justify"><a href="/blog"><span>Blog</span></a></li>
 </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
