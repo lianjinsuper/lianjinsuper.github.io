@@ -3,17 +3,16 @@ layout: home
 ---
 
 <div class="index-content science">
-   
- <ul class="artical-cate">
-            <li class="on"><a href="/"><span>Home</span></a></li>
-             <li class="on" style="text-align:center"><a href="/science"><span>Science</span></a></li>
-            <li style="text-align:right"><a href="/aboutme"><span>About me</span></a></li>
-            <li style="text-align:center"><a href="/blog"><span>Blog</span></a></li>
-</ul>
+    <div class="section">
+        <ul class="artical-cate">
+            <li><a href="/"><span>Blog</span></a></li>
+             <li><a href="/"><span>Blog</span></a></li>
+              <li><a href="/"><span>Blog</span></a></li>
+            <li class="on" style="text-align:center"><a href="/science"><span>Science</span></a></li>
+            <li style="text-align:right"><a href="/project"><span>Project</span></a></li>
+        </ul>
 
-
-
-       <div class="cate-bar"><span id="cateBar"></span></div>
+        <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
         {% for post in site.categories.science %}
