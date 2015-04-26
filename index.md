@@ -18,14 +18,26 @@ layout: home
 You can find information of my research works and my personal opinions (some of them are in Chinese)in this web.
         </p>
          <p class="artical-list">
-        /p>       
+        </p>       
         <p class="artical-list"> 
         I hope you enjoy visiting here! 
         </p>
         <p class="artical-list">
-        /p>       
+        </p>       
         <p class="artical-list"> 
         Jin </p>
+      <div class="cate-bar"><span id="cateBar"></span></div>
+
+        <ul class="artical-list">
+        {% for post in site.categories.aboutme %}
+            <li>
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <div class="title-desc">{{ post.description }}</div>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+
     </div>
     <div class="aside">
     </div>
