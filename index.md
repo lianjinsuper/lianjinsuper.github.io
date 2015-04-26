@@ -24,6 +24,8 @@ layout: home
         <p class="artical-list" align="left"> 
         Jin </p>
         <br/>
+        <br/>
+
       <ul class="artical-list">
         {% for post in site.categories.home %}
             <li>
