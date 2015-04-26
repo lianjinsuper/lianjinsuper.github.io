@@ -7,7 +7,7 @@ layout: home
         <ul class="artical-cate">
             <li class="on" style="text-align:left"><a href="/"><span>Abount Me</span></a></li>
             <li style="text-align:center"><a href="/myrearch"><span>My Research</span></a></li>
-            <li style="text-align:right"><a href="/opinion"><span>Opinion</span></a></li>
+            <li style="text-align:center"><a href="/opinion"><span>Opinion</span></a></li>
 </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>

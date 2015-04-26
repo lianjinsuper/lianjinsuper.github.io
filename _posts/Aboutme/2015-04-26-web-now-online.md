@@ -2,7 +2,7 @@
 layout: no_title
 title:      
 category: aboutme
-description: With the help of my friend, finally it launched ! 
+description: With the help of my friend 王兆国, finally this website has launched ! Copyright Jin Lian 2015. 
 ---
 
 Welcome to Jin's web ! This is a website of Jin Lian (廉晋). I am a PhD research in Complex photonic systems group ( <a href="http://cops.nano-cops.com/">COPS</a>.), Unversity of Twente. You can find more information of me in <a href="/aboutme">About me</a>.  Thanks to the help of my friend Zhaoguo Wang (王兆国), this web is launched finally.
