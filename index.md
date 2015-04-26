@@ -14,7 +14,7 @@ layout: home
 
         <p class="artical-list"> 
         Welcome to Jin Lian（廉晋）'s web ! 
-        I am a PhD researcher in Complex photonic systems group (<a href="http://cops.nano-cops.com/">COPS</a>), Unversity of Twente. In this web, you can find information of <a href="/aboutme">My Research</a> and my personal <a href="/opinion">Opinion</a> (some of them are in Chinese).
+        I am a PhD researcher in Complex photonic systems group (<a href="http://cops.nano-cops.com/">COPS</a>), Unversity of Twente. In this web, you can find information of <a href="/myresearch">My Research</a> and my personal <a href="/opinion">Opinion</a> (some of them are in Chinese).
         </p>
          <p class="artical-list">
         </p>       
