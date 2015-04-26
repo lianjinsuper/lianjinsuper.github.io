@@ -31,7 +31,7 @@ layout: home
         For more information, please look at my <a href="/cv/cv.pdf">CV</a> and <a href="/cv/Scientific_Appendix_JL.pdf.pdf">Scientific Appendix</a>.
         </p> 
     </div>
-    <div class="aside"> 
+    <div class="side"> 
     <img src="/images/face/face.png" alt="Smiley face" height="179" width="223">
     </div>
 </div>
