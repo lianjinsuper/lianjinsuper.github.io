@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      My personal web is online !
-category: home
+category: aboutme
 descriptioni: With the help of my friend, finally it launched ! 
 ---
 
