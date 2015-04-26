@@ -25,6 +25,7 @@ layout: home
         </p>       
         <p class="artical-list"> 
         Jin </p>
+        <br/>
       <ul class="artical-list">
         {% for post in site.categories.home %}
             <li>
