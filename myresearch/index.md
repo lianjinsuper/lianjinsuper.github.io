@@ -30,8 +30,4 @@ layout: home
         <p class="artical-list">
         For more information, please look at my <a href="/cv/cv.pdf">CV</a> and <a href="/cv/Scientific_Appendix_JL.pdf.pdf">Scientific Appendix</a>.
         </p> 
-    </div>
-    <div class="sidepic"> 
-    <img src="/images/face/face.png" alt="Smiley face" height="223" width="179">
-    </div>
 </div>
