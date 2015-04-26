@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   The web is online now 25/04/2015   
+title:   The web is online now! 
 category: home
 description: 
 ---
