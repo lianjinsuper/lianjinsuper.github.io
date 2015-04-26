@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content opinion">
+<div class="index-content myresearch">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Home</span></a></li>

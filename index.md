@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content blog">
+<div class="index-content home">
     <div class="section">
         <ul class="artical-cate">
             <li class="on" style="text-align:left"><a href="/"><span>Home</span></a></li>
