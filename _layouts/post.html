@@ -25,23 +25,23 @@ layout: default
         <p><a href="mailto:IamJinLian@gmail.com">IamJinLian@gmail.com</a> <a href="mailto:j.lian@utwente.nl">j.lian@utwente.nl</a></p>
       </div>
       <div class="sidenav">
-        <h2>Home</h2>
+        <h2>About me</h2>
+        <ul class="artical-list">
+        {% for post in site.categories.aboutme%}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        </ul>
+
+        <h2>My Research</h2>
+        <ul class="artical-list">
+        {% for post in site.categories.myrearch%}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        </ul>
+
+        <h2>Blog</h2>
         <ul class="artical-list">
         {% for post in site.categories.blog%}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-        </ul>
-
-        <h2>Science</h2>
-        <ul class="artical-list">
-        {% for post in site.categories.science%}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-        </ul>
-
-        <h2>Project</h2>
-        <ul class="artical-list">
-        {% for post in site.categories.project%}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
