@@ -13,10 +13,11 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
          <p class="artical-list"> 
-        I am currently a PhD researcher under the supervision of Prof. Dr. A. P. Mosk in . My PhD research is mainly focused on controlling the light transport in ordered and disorderd nanophotonic systems, specifically coupled photonic crysal cavities and photonic crystal waveguide.          
+        I am currently a PhD researcher under the supervision of Prof. Dr. A. P. Mosk in Complex photonic systems group (<a href="http://cops.nano-cops.com/">COPS</a>), Unversity of Twente. . My PhD research is mainly focused on controlling the light transport in ordered and disorderd nanophotonic systems, specifically coupled photonic crysal cavities and photonic crystal waveguide.          
         </p>
-         <p class="artical-list">
-        I received my M.Sc degree in Institue of physics, Chinese Academy of Sciences under the supervision of Prof. Dr. Z. Y. Li. My main results in my Master's are experimental realization of robust and disorder-immune magnetically tunable one-way waveguides, and also unidirectional channel-drop filters. 
+        <br/>
+        <p class="artical-list">
+        I received my M.Sc degree in Institue of physics, Chinese Academy of Sciences under the supervision of Prof. Dr. Z. Y. Li. My main results in my Master's are <a  href="http://lianjin.me/research/PhysRevB.85.pdf">experimental realization of robust and disorder-immune magnetically tunable one-way waveguides</a>, and also  <a  href="http://lianjin.me/research/1.3593027.pdf"> unidirectional channel-drop filters</a>. 
         </p>       
         <p class="artical-list"> 
         I hope you enjoy visiting here! 
