@@ -7,7 +7,7 @@ layout: home
         <ul class="artical-cate">
             <li class="on" style="text-align:left"><a href="/"><span>Abount Me</span></a></li>
             <li style="text-align:center"><a href="/myrearch"><span>My Research</span></a></li>
-            <li style="text-align:center"><a href="/opinion"><span>Opinion</span></a></li>
+            <li style="text-align:center"><a href="/opinion"><span>Opinions</span></a></li>
 </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
@@ -15,7 +15,7 @@ layout: home
         <p class="artical-list"> 
         Welcome to Jin Lian（廉晋）'s web ! 
         I am a PhD researcher in Complex photonic systems group (<a href="http://cops.nano-cops.com/">COPS</a>), Unversity of Twente. In this web, you can find information of <a href="/aboutme">My Research</a> and my personal <a href="/opinion">Opinion</a> .  
-You can find information of my research works and my personal opinions (some of them are in Chinese)in this web.
+You can find information of my research works and my personal opinions (some of them are in Chinese) in this web.
         </p>
          <p class="artical-list">
         </p>       

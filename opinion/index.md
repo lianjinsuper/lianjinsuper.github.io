@@ -2,18 +2,18 @@
 layout: home
 ---
 
-<div class="index-content project">
+<div class="index-content opinion">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>About me</span></a></li>
-            <li style="text-align:center"><a href="/myresearch"><span>My research</span></a></li>
-            <li class="on" style="text-align:right"><a href="/blog"><span>Blog</span></a></li>
+            <li><a href="/"><span>About Me</span></a></li>
+            <li style="text-align:center"><a href="/myresearch"><span>My Research</span></a></li>
+            <li class="on" style="text-align:center"><a href="/opinion"><span>Opinions</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.blog %}
+        {% for post in site.categories.opinion %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
