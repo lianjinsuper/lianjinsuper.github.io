@@ -21,7 +21,7 @@ layout: home
         I hope you enjoy visiting here! 
         </p>
        <br/>      
-        <p class="artical-list" align="right"> 
+        <p class="artical-list" align="left"> 
         Jin </p>
         <br/>
       <ul class="artical-list">
