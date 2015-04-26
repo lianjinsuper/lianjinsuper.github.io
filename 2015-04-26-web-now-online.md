@@ -1,7 +1,7 @@
 ---
 layout: no_title
 title:      
-category: aboutme
+category: \
 description: With the help of my friend, finally it launched ! 
 ---
 
