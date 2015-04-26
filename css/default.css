@@ -89,7 +89,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .myresearch .aside{
     background-image:url('http://lianjin.me/images/face/new.png');
 }
-.project .aside{
+.opinion .aside{
     background-image:url('http://lianjin.me/images/face/new.png')
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
@@ -167,7 +167,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 
     .blog .aside,
     .project .aside,
-    .science .aside {display:none;background-image:none;}
+    .opinion .aside {display:none;background-image:none;}
 }
 
 @media (max-width: 1020px){
