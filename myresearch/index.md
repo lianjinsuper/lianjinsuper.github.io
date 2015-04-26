@@ -22,13 +22,13 @@ layout: home
     
         <br/>
         <p class="artical-list">
-        I am interested in analogs between complex photonic systems and electronic systems, <a href="http://cops.nano-cops.com/wavefront-shaping">wavefront shaping<a/>  and compressive ghost imaging. 
+        I am interested in analogs between complex photonic systems and electronic systems, <a href="http://cops.nano-cops.com/wavefront-shaping">wavefront shaping</a>  and compressive ghost imaging (A nice tutorial of how to build up compressive ghost imaging setup is <a href=">here<\a>). 
         </p> 
 
        
         <br/>
         <p class="artical-list">
-        For more information, please look at my CV and scientific appendix.
+        For more information, please look at my CV and Scientific Appendix.
         </p> 
     </div>
     <div class="aside">
