@@ -26,18 +26,14 @@ You can find information of my research works and my personal opinions (some of 
         </p>       
         <p class="artical-list"> 
         Jin </p>
-      <div class="cate-bar"><span id="cateBar"></span></div>
-
-        <ul class="artical-list">
+      <ul class="artical-list">
         {% for post in site.categories.aboutme %}
             <li>
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="title-desc">{{ post.description }}</div>
             </li>
         {% endfor %}
-        </ul>
-    </div>
-
+        </ul> 
     </div>
     <div class="aside">
     </div>
