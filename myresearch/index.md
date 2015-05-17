@@ -28,7 +28,7 @@ layout: home
        
         <br/>
         <p class="artical-list">
-        For more information, please look at my <a href="/cv/cv.pdf">CV</a> and <a href="/cv/Scientific_Appendix_JL.pdf.pdf">Scientific Appendix</a>.
+        For more information, please look at my <a href="/cv/cv.pdf">CV</a> and <a href="/cv/scientific_appendix.pdf">Scientific Appendix</a>.
         </p> 
 </div>
  <div class="aside">
