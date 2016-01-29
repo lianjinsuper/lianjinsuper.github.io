@@ -13,7 +13,7 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
          <p class="artical-list"> 
-        I am currently a PhD researcher under the supervision of Prof. Dr. A. P. Mosk in <a href="http://touchablephysics.com/nanolinx"> Linx  </a>   group in Utrecht university . My PhD research is mainly focused on controlling the light transport in ordered and disorderd nanophotonic systems, specifically coupled photonic crysal cavities and photonic crystal waveguides.          
+        I am currently a PhD researcher under the supervision of Prof. Dr. A. P. Mosk in <a href="http://touchablephysics.com/nanolinx"> LINX  </a>   group in Utrecht university . My PhD research is mainly focused on controlling the light transport in ordered and disorderd nanophotonic systems, specifically coupled photonic crysal cavities and photonic crystal waveguides.          
         </p>
         <br/>
         <p class="artical-list">
