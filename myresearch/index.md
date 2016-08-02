@@ -13,11 +13,11 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
          <p class="artical-list"> 
-        I am currently a PhD researcher under the supervision of Prof. Dr. A. P. Mosk in <a href="http://touchablephysics.com/nanolinx"> LINX  </a>   group in Utrecht university . My PhD research is mainly focused on controlling the light transport in ordered and disorderd nanophotonic systems, specifically coupled photonic crysal cavities and photonic crystal waveguides.          
+        I am currently a Postdoc researcher in <a href="http://touchablephysics.com/nanolinx"> LINX  </a>   group in Utrecht university .      
         </p>
         <br/>
         <p class="artical-list">
-        I received my M.Sc degree in  <a  href="http://english.iop.cas.cn/">Institue of physics</a>,  Chinese Academy of Sciences under the supervision of Prof. Dr. Z. Y. Li. My main results in my Master's are experimental realization of  <a  href="http://lianjin.me/research/PhysRevB.85.pdf">robust and disorder-immune magnetically tunable one-way waveguides</a>, and also  <a  href="http://lianjin.me/research/1.3593027.pdf"> unidirectional channel-drop filters</a>. 
+        I obtained my PhD degree in University of Twente under the supervision of Prof. Dr. A. P. Mosk, and My PhD research was mainly focused on controlling the light transport in ordered and disorderd nanophotonic systems, specifically coupled photonic crysal cavities and photonic crystal waveguides.  I received my M.Sc degree in  <a  href="http://english.iop.cas.cn/">Institue of physics</a>,  Chinese Academy of Sciences under the supervision of Prof. Dr. Z. Y. Li. My main results in my Master's are experimental realization of  <a  href="http://lianjin.me/research/PhysRevB.85.pdf">robust and disorder-immune magnetically tunable one-way waveguides</a>, and also  <a  href="http://lianjin.me/research/1.3593027.pdf"> unidirectional channel-drop filters</a>. 
         </p>       
     
         <br/>
